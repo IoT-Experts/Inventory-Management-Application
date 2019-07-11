@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryManagement", "InventoryManagement\InventoryManagement.csproj", "{F6EC1AF1-E6F2-4B0A-8953-00A638DEF148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{5ACF252E-69BC-4986-98AD-514BF5BE5051}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupInventory", "SetupInventory\SetupInventory.vdproj", "{16B160B4-A5BC-43CF-98B8-2D9D439DCFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6EC1AF1-E6F2-4B0A-8953-00A638DEF148}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EC1AF1-E6F2-4B0A-8953-00A638DEF148}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{F6EC1AF1-E6F2-4B0A-8953-00A638DEF148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EC1AF1-E6F2-4B0A-8953-00A638DEF148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACF252E-69BC-4986-98AD-514BF5BE5051}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACF252E-69BC-4986-98AD-514BF5BE5051}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{5ACF252E-69BC-4986-98AD-514BF5BE5051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACF252E-69BC-4986-98AD-514BF5BE5051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B160B4-A5BC-43CF-98B8-2D9D439DCFAF}.Debug|Any CPU.ActiveCfg = Release
+		{16B160B4-A5BC-43CF-98B8-2D9D439DCFAF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

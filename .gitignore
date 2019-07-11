@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/InventoryManagement/v14
+/InventoryManagement.v12.suo
+/DataAccess/obj/Release
+/DataAccess/bin/Release
+/InventoryManagement/obj
+/InventoryManagement/bin
